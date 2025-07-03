@@ -1,0 +1,7 @@
+This dataset contains SMS messages labeled as either 'spam' or 'ham'.
+
+Column Descriptions:
+- label: Target variable indicating whether a message is spam or ham.
+- message: The actual text of the SMS message.
+
+Original source: https://www.google.com/url?q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fuciml%2Fsms-spam-collection-dataset
